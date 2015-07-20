@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Belleza);
+body {
+  font-family: "Belleza";
+  color: blue;
+  background-image: url("DSC02119-Chicago-Skyline-Black-And-White-Photo_xgaplus.jpg");
+  background-repeat: no-repeat;
+  background-size: 1400px 1050px;
+
+  /*background-color: #e6e6e6*/;
+  }
+
+h1 {color: blue;}
+h2 {color: #990012; }
+/* id */
+/* #zachtag { color: #990012; } */
+/* class */
+/* .bluetext {color: blue} */
